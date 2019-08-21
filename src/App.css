@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|IBM+Plex+Sans&display=swap');
+* {
+  box-sizing: border-box;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.app {}
+
+.bg {
+  background-image: url("./image/login.png");
+}
